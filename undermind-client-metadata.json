@@ -1,0 +1,9 @@
+{
+  "client_id": "https://feng2000312.github.io/undermind-client-metadata/undermind-client-metadata.json",
+  "client_name": "DeepSeek Harness",
+  "redirect_uris": ["http://127.0.0.1:8799/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp"
+}
